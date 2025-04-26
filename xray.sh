@@ -87,7 +87,7 @@ mkdir -p /usr/local/etc/xray
 #chmod +x /usr/local/bin/xray
 
 #Download XRAY Core Dharak
-wget -O /usr/local/bin/xray "https://raw.githubusercontent.com/NevermoreSSH/yourpath/main/xray.linux.64bit"
+wget -O /usr/local/bin/xray "https://github.com/mdsdtech/xray-multipath/releases/download/x64-linux/xray"
 chmod +x /usr/local/bin/xray
 
 # generate certificates
